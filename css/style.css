@@ -1,0 +1,84 @@
+.rightbar{
+  position: absolute;
+  top: 20px;
+  right: 0;
+  width: 100;
+}
+.gmail, .images, .square, .scircle, .bcircle{
+  float: left;
+}
+.gmail, .images{
+  padding: right;
+  padding: 5px;
+  right: 20px;
+}
+.square{
+  height: 30px;
+  width: 30px;
+  background-color: #aaa;
+  right: 10px;
+}
+.scircle{
+  height: 25px;
+  width: 25px;
+  border-radius: 25px;
+  background-color: #aaa;
+  right: 5px;
+}
+.bcircle{
+  height: 35px;
+  width: 35px;
+  border-radius: 35px;
+  background-color: #aaa;
+}
+
+/* div{
+  margin: 0;
+  padding: 0;
+} */
+div div{
+  position: relative;
+}
+all{
+  height: 300px;
+  width: 300px;
+  margin: auto;
+}
+
+.google-logo{
+  display: block;
+  margin: auto;
+
+}
+#textbox{
+  display: block;
+  margin: auto;
+}
+.buttons{
+  display: inline;
+  margin: auto;
+}
+
+.fbar{
+  position: absolute;
+  bottom: 0px;
+  height: 40px;
+  width: 100%;
+  background: #f1f1f1;
+}
+.bleft{
+  float: left;
+  padding: 10px;
+}
+.bright{
+  float: right;
+  padding: 10px;
+}
+.advertising, .business, .about{
+  padding: right;
+  padding: 10px;
+}
+.privacy, .terms, .settings{
+  padding: left;
+  padding: 10px;
+}
